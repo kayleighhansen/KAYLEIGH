@@ -1,0 +1,6 @@
+2021/08/04-10:36:26.649 f840 Creating DB C:\Users\Kayleigh\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/08/04-10:36:26.660 f840 Reusing MANIFEST C:\Users\Kayleigh\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/04-10:36:36.684 2460 Level-0 table #5: started
+2021/08/04-10:36:36.687 2460 Level-0 table #5: 19329 bytes OK
+2021/08/04-10:36:36.691 2460 Delete type=0 #3
+2021/08/04-10:36:36.691 2460 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

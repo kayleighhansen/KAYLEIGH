@@ -1,0 +1,7 @@
+2021/10/08-12:38:24.964 6560 Reusing MANIFEST C:\Users\Kayleigh\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/08-12:38:24.964 6560 Recovering log #3
+2021/10/08-12:38:24.964 6560 Reusing old log C:\Users\Kayleigh\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2021/10/08-12:38:32.337 4c2c Level-0 table #5: started
+2021/10/08-12:38:32.341 4c2c Level-0 table #5: 1897 bytes OK
+2021/10/08-12:38:32.346 4c2c Delete type=0 #3
+2021/10/08-12:38:32.346 4c2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

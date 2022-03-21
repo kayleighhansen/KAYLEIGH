@@ -1,0 +1,6 @@
+2022/01/03-10:33:41.724 7b98 Creating DB C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_sale.alibaba.com_0.indexeddb.leveldb since it was missing.
+2022/01/03-10:33:41.732 7b98 Reusing MANIFEST C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_sale.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/03-10:34:16.361 2df8 Level-0 table #5: started
+2022/01/03-10:34:16.368 2df8 Level-0 table #5: 46526 bytes OK
+2022/01/03-10:34:16.372 2df8 Delete type=0 #3
+2022/01/03-10:34:16.373 2df8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

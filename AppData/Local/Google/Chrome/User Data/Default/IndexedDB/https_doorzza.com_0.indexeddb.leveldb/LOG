@@ -1,0 +1,6 @@
+2021/12/27-14:09:10.424 3d0c Creating DB C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_doorzza.com_0.indexeddb.leveldb since it was missing.
+2021/12/27-14:09:10.431 3d0c Reusing MANIFEST C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_doorzza.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-14:10:09.212 1a90 Level-0 table #5: started
+2021/12/27-14:10:09.214 1a90 Level-0 table #5: 1951 bytes OK
+2021/12/27-14:10:09.217 1a90 Delete type=0 #3
+2021/12/27-14:10:09.218 1a90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2022/01/03-10:05:59.088 2e94 Reusing MANIFEST C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/03-10:05:59.088 2e94 Recovering log #7
+2022/01/03-10:05:59.088 2e94 Reusing old log C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.canva.com_0.indexeddb.leveldb/000007.log 
+2022/01/05-10:49:48.514 bca0 Level-0 table #12: started
+2022/01/05-10:49:48.516 bca0 Level-0 table #12: 781 bytes OK
+2022/01/05-10:49:48.520 bca0 Delete type=0 #7
+2022/01/05-10:49:48.520 bca0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/05-10:49:48.520 bca0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 521 : 1
+2022/01/05-10:49:48.520 bca0 Compacting 1@1 + 1@2 files
+2022/01/05-10:49:48.522 bca0 Generated table #13@1: 69 keys, 1364 bytes
+2022/01/05-10:49:48.522 bca0 Compacted 1@1 + 1@2 files => 1364 bytes
+2022/01/05-10:49:48.525 bca0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/05-10:49:48.525 bca0 Delete type=2 #9
+2022/01/05-10:49:48.525 bca0 Delete type=2 #12
+2022/01/05-10:49:48.525 bca0 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 521 : 1 .. (end); will stop at (end)

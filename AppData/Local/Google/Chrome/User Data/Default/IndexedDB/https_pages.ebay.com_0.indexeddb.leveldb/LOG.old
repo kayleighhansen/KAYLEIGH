@@ -1,0 +1,6 @@
+2022/01/05-13:09:42.760 5cb8 Creating DB C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pages.ebay.com_0.indexeddb.leveldb since it was missing.
+2022/01/05-13:09:42.772 5cb8 Reusing MANIFEST C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_pages.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/05-13:09:45.837 48c Level-0 table #5: started
+2022/01/05-13:09:45.841 48c Level-0 table #5: 1255 bytes OK
+2022/01/05-13:09:45.845 48c Delete type=0 #3
+2022/01/05-13:09:45.846 48c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

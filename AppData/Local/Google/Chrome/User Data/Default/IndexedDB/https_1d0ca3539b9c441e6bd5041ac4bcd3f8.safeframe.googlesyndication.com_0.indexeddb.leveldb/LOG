@@ -1,0 +1,7 @@
+2021/12/29-12:02:11.763 968c Reusing MANIFEST C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_1d0ca3539b9c441e6bd5041ac4bcd3f8.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-12:02:11.763 968c Recovering log #3
+2021/12/29-12:02:11.763 968c Reusing old log C:\Users\KAYLEIGH\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_1d0ca3539b9c441e6bd5041ac4bcd3f8.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2021/12/29-12:02:15.061 7ac4 Level-0 table #5: started
+2021/12/29-12:02:15.065 7ac4 Level-0 table #5: 480 bytes OK
+2021/12/29-12:02:15.069 7ac4 Delete type=0 #3
+2021/12/29-12:02:15.069 7ac4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
